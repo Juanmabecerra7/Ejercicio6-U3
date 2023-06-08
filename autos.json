@@ -1,0 +1,17 @@
+{
+    "__class__": "Lista",
+    "autos": [
+        {
+            "__class__": "Usado",
+            "__atributos__": {
+                "modelo": "bora",
+                "puertas": 4,
+                "color": "amarrillo",
+                "precio": 101010101.0,
+                "patente": "173918",
+                "kilometros": 167282,
+                "anioo": 1973
+            }
+        }
+    ]
+}
